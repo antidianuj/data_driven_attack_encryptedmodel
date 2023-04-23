@@ -21,7 +21,8 @@ The black box, utilizes this indicator function neural network to search for can
 
 From the proof of concept perspective, if we focus on only first layer of an arbitrary CNN model over some image data, the attacker wants to determine how to get the original kernel back from the Arnold mapped kernel, which destroys the accuracy or feature representation of the model.
 
-![image](https://user-images.githubusercontent.com/47445756/233843618-48a97665-560f-4bc1-b836-f19295d31eb4.png)
+![image](https://user-images.githubusercontent.com/47445756/233844871-ab28be11-5ec7-482c-b627-aea7f8fad3aa.png)
+
 
 On implementing my scheme, as mentioned above, I was able to achieve following performance of indicator function where it tries to distinguish between optimal inverse functions and random inverse functions (which would be permutation of indices of the kernel in current case).
 
