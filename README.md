@@ -47,6 +47,8 @@ However, I took a different strategy next time, and consider iterations of param
 ![image](https://user-images.githubusercontent.com/47445756/233844320-6886c8ee-f095-4337-9ece-ce2fe56dddbf.png)
 
 
+Following is the comparison of orignal layer output and output gotton through Genetic algorithm based convex optimization approach.
 ![image](https://user-images.githubusercontent.com/47445756/233844349-d2f13377-8223-49c9-a9ed-caa9324abafe.png)
 
+One can conclude that the search algorithm should be reflective of the encryption mechanism. This is the end of my current investigation of the proposed attack for now.
 
